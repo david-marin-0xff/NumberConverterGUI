@@ -36,7 +36,7 @@ NumberConverterGUI is a Windows app that allows you to convert numbers between \
 
 
 
-To be added
+<img width="736" height="561" alt="image" src="https://github.com/user-attachments/assets/2e6afcee-ba70-4ac0-b46e-d56788011ddd" />
 
 
 
