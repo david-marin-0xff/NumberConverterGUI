@@ -40,11 +40,4 @@ NumberConverterGUI is a Windows app that allows you to convert numbers between \
 
 
 
-\## Credits
-
-
-
-Created by \[https://github.com/david-marin-0xff](https://github.com/david-marin-0xff)
-
-
 
